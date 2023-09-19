@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "learnerstorey.com",
+  "Id": "5611bd66-89d5-48aa-b01a-a1b696ad8221"
+}
